@@ -51,7 +51,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azharhayat271&show_icons=true&locale=en" alt="azharhayat271" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azharhayat271&" alt="azharhayat271" /></p>
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Azharhayat271/Azharhayat271/output/github-contribution-grid-snake-dark.svg)
-
+https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
