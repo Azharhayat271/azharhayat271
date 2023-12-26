@@ -51,8 +51,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azharhayat271&show_icons=true&locale=en" alt="azharhayat271" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azharhayat271&" alt="azharhayat271" /></p>
-<br>
+<br><br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 | ![Azhar Hayat github stats](https://github-readme-stats.vercel.app/api?username=Azharhayat271\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Azhar Hayat GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azharhayat271&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
+<hr>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
