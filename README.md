@@ -1,9 +1,17 @@
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
+
+
 <h1 align="center">Hi 👋, I'm Azhar Hayat</h1>
 <h3 align="center">Passionate about turning complex ideas into elegant and efficient software solutions, constantly pushing the boundaries of innovation in the world of technology</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azharhayat271&label=Profile%20views&color=0e75b6&style=flat" alt="azharhayat271" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharhayat271" alt="azharhayat271" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/azharha64990004" target="blank"><img src="https://img.shields.io/twitter/follow/azharha64990004?logo=twitter&style=for-the-badge" alt="azharha64990004" /></a> </p>
 
