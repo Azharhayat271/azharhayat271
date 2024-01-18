@@ -17,7 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/azharha64990004" target="blank"><img src="https://img.shields.io/twitter/follow/azharha64990004?logo=twitter&style=for-the-badge" alt="azharha64990004" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="1920" height="450" />
 
 
 🌱 I’m currently learning **MERN Stack, AI, Machine Learning, Cyber Security**
