@@ -2,7 +2,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-
 <h1 align="center">Hi 👋, I'm Azhar Hayat</h1>
 <h3 align="center">Passionate about turning complex ideas into elegant and efficient software solutions, constantly pushing the boundaries of innovation in the world of technology</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
