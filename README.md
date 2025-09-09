@@ -35,12 +35,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/azharha64990004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azharha64990004" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/azhar-hayat-a44779254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-hayat-a44779254" height="30" width="40" /></a>
-<a href="https://fb.com/azhar.hayat.7359447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azhar.hayat.7359447" height="30" width="40" /></a>
-<a href="https://instagram.com/azharhayat271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azharhayat271" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/azharhayat271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azharhayat271" height="30" width="40" /></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
