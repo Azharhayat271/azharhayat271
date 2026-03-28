@@ -1,60 +1,78 @@
-<svg width="100%" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </marker>
-    <marker id="arrow2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </marker>
+    <style>
+      .font-display { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .font-body { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; }
+    </style>
   </defs>
 
-  <!-- Step 1: Founder -->
-  <rect x="40" y="28" width="160" height="56" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="120" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="#e6edf3">Founder has an idea</text>
-  <text x="120" y="70" text-anchor="middle" font-size="11" fill="#8b949e">The vision starts here</text>
+  <!-- Background -->
+  <rect width="800" height="320" fill="#f2f0e8" rx="12"/>
+
+  <!-- Section label -->
+  <text x="32" y="38" class="font-display" font-size="10" fill="#b6b5b5" letter-spacing="2">&#9889;  WHAT WORKING WITH ME LOOKS LIKE</text>
+  <line x1="32" y1="46" x2="768" y2="46" stroke="#e0ddd4" stroke-width="1"/>
+
+  <!-- CARD 1: Founder -->
+  <rect x="32" y="62" width="196" height="90" rx="6" fill="#ffffff" stroke="#e0ddd4" stroke-width="1"/>
+  <text x="48" y="84" class="font-display" font-size="9" fill="#b6b5b5" letter-spacing="1.5">01</text>
+  <text x="48" y="104" class="font-display" font-size="15" fill="#111111">Founder has</text>
+  <text x="48" y="122" class="font-display" font-size="15" fill="#111111">an idea</text>
+  <text x="48" y="142" class="font-body" font-size="10" fill="#838282">Vision starts here</text>
 
   <!-- Arrow 1 -->
-  <line x1="200" y1="56" x2="238" y2="56" stroke="#58a6ff" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="228" y1="107" x2="256" y2="107" stroke="#c8c5bc" stroke-width="1.5" stroke-linecap="round"/>
+  <polyline points="250,101 258,107 250,113" fill="none" stroke="#c8c5bc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
-  <!-- Step 2: Azhar joins -->
-  <rect x="240" y="28" width="200" height="56" rx="8" fill="#0d2233" stroke="#1f6feb" stroke-width="1"/>
-  <text x="340" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="#58a6ff">Azhar joins the team</text>
-  <text x="340" y="70" text-anchor="middle" font-size="11" fill="#5b9dd9">Full-stack · AI · Mobile</text>
+  <!-- CARD 2: Azhar joins (active / black) -->
+  <rect x="264" y="62" width="272" height="90" rx="6" fill="#111111" stroke="#111111" stroke-width="1"/>
+  <text x="280" y="84" class="font-display" font-size="9" fill="#555555" letter-spacing="1.5">02</text>
+  <text x="280" y="104" class="font-display" font-size="15" fill="#f2f0e8">Azhar joins</text>
+  <text x="280" y="122" class="font-display" font-size="15" fill="#f2f0e8">the team</text>
+  <text x="280" y="142" class="font-body" font-size="10" fill="#888888">Full-stack + AI engineering</text>
 
   <!-- Arrow 2 -->
-  <line x1="440" y1="56" x2="478" y2="56" stroke="#3fb950" stroke-width="1.5" marker-end="url(#arrow2)"/>
+  <line x1="536" y1="107" x2="564" y2="107" stroke="#c8c5bc" stroke-width="1.5" stroke-linecap="round"/>
+  <polyline points="558,101 566,107 558,113" fill="none" stroke="#c8c5bc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
-  <!-- Step 3: MVP Ships -->
-  <rect x="480" y="28" width="160" height="56" rx="8" fill="#0d2a18" stroke="#238636" stroke-width="1"/>
-  <text x="560" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="#3fb950">MVP ships</text>
-  <text x="560" y="70" text-anchor="middle" font-size="11" fill="#2ea043">On time · Production-ready</text>
+  <!-- CARD 3: MVP Ships -->
+  <rect x="572" y="62" width="196" height="90" rx="6" fill="#ffffff" stroke="#e0ddd4" stroke-width="1"/>
+  <text x="588" y="84" class="font-display" font-size="9" fill="#b6b5b5" letter-spacing="1.5">03</text>
+  <text x="588" y="104" class="font-display" font-size="15" fill="#111111">MVP ships</text>
+  <text x="588" y="122" class="font-display" font-size="15" fill="#111111">&#10003; On time</text>
+  <text x="588" y="142" class="font-body" font-size="10" fill="#838282">Production-ready</text>
 
   <!-- Divider -->
-  <line x1="40" y1="112" x2="640" y2="112" stroke="#21262d" stroke-width="1"/>
+  <line x1="32" y1="172" x2="768" y2="172" stroke="#e0ddd4" stroke-width="1"/>
 
-  <!-- What happens label -->
-  <text x="340" y="136" text-anchor="middle" font-size="11" fill="#6e7681">What happens in between</text>
+  <!-- PILLARS background -->
+  <rect x="32" y="182" width="736" height="96" rx="6" fill="#ffffff" stroke="#e0ddd4" stroke-width="1"/>
+
+  <!-- Pillar dividers -->
+  <line x1="216" y1="182" x2="216" y2="278" stroke="#e0ddd4" stroke-width="1"/>
+  <line x1="400" y1="182" x2="400" y2="278" stroke="#e0ddd4" stroke-width="1"/>
+  <line x1="584" y1="182" x2="584" y2="278" stroke="#e0ddd4" stroke-width="1"/>
 
   <!-- Pillar 1 -->
-  <rect x="40" y="155" width="136" height="52" rx="8" fill="#1a1329" stroke="#3d2b8a" stroke-width="1"/>
-  <text x="108" y="177" text-anchor="middle" font-size="12" font-weight="600" fill="#bc8cff">Architecture</text>
-  <text x="108" y="195" text-anchor="middle" font-size="11" fill="#8956d4">Clean &amp; scalable</text>
+  <text x="50" y="210" class="font-display" font-size="28" fill="#ede9df">01</text>
+  <text x="50" y="240" class="font-display" font-size="13" fill="#111111">Architecture</text>
+  <text x="50" y="258" class="font-body" font-size="10" fill="#838282">Clean &amp; scalable</text>
 
   <!-- Pillar 2 -->
-  <rect x="192" y="155" width="136" height="52" rx="8" fill="#1a1329" stroke="#3d2b8a" stroke-width="1"/>
-  <text x="260" y="177" text-anchor="middle" font-size="12" font-weight="600" fill="#bc8cff">AI Features</text>
-  <text x="260" y="195" text-anchor="middle" font-size="11" fill="#8956d4">Agents &amp; LLMs</text>
+  <text x="234" y="210" class="font-display" font-size="28" fill="#ede9df">02</text>
+  <text x="234" y="240" class="font-display" font-size="13" fill="#111111">AI Features</text>
+  <text x="234" y="258" class="font-body" font-size="10" fill="#838282">Agents &amp; LLMs</text>
 
   <!-- Pillar 3 -->
-  <rect x="344" y="155" width="136" height="52" rx="8" fill="#1a1329" stroke="#3d2b8a" stroke-width="1"/>
-  <text x="412" y="177" text-anchor="middle" font-size="12" font-weight="600" fill="#bc8cff">APIs &amp; Backend</text>
-  <text x="412" y="195" text-anchor="middle" font-size="11" fill="#8956d4">Fast &amp; reliable</text>
+  <text x="418" y="210" class="font-display" font-size="28" fill="#ede9df">03</text>
+  <text x="418" y="240" class="font-display" font-size="13" fill="#111111">APIs &amp; Backend</text>
+  <text x="418" y="258" class="font-body" font-size="10" fill="#838282">Fast &amp; reliable</text>
 
   <!-- Pillar 4 -->
-  <rect x="496" y="155" width="144" height="52" rx="8" fill="#1a1329" stroke="#3d2b8a" stroke-width="1"/>
-  <text x="568" y="177" text-anchor="middle" font-size="12" font-weight="600" fill="#bc8cff">Mobile-ready</text>
-  <text x="568" y="195" text-anchor="middle" font-size="11" fill="#8956d4">Web &amp; app</text>
+  <text x="602" y="210" class="font-display" font-size="28" fill="#ede9df">04</text>
+  <text x="602" y="240" class="font-display" font-size="13" fill="#111111">Mobile-ready</text>
+  <text x="602" y="258" class="font-body" font-size="10" fill="#838282">Web &amp; cross-platform</text>
 
-  <!-- Bottom tagline -->
-  <text x="340" y="252" text-anchor="middle" font-size="11" fill="#484f58">From idea to production — reliably.</text>
+  <!-- Tagline -->
+  <text x="400" y="304" class="font-body" font-size="10" fill="#b6b5b5" text-anchor="middle" letter-spacing="1.5">FROM IDEA TO PRODUCTION — RELIABLY.</text>
 </svg>
